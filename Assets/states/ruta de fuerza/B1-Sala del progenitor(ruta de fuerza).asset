@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: B1-Sala del progenitor(ruta de fuerza)
+  m_EditorClassIdentifier: 
+  storyText: "Tu sigilo nunca fue tu mejor atributo, el organizado enemigo pudo ubicarte
+    y tuviste una pelea con ellos, a pesar de no haberlos matado a todos has logrado
+    herirlos seriamente, al igual que ellos lograron herirte de la misma forma.\nEscapando
+    por tu vida llegas a la sala principal de tus progenitores.\nAl parecer estuvieron
+    ocupados, los cadaveres enemigos y amigos se acumulan en la sala y tus creadores
+    se encuentran debilitados. La muerte acerca su sombra sobre ustedes, debes pensar
+    rapido como sobrevivir.\n1_revisar y usar los cadaveres para intentar revertir
+    esta situacion    \n2_Revisar los planos de tus progenitores, ellos seguro tienen
+    una respuesta ante esto( o un cuarto de panico...)\n3_Yo sirvo a mis progenitores
+    y mi sacrificio no sera en vano si logramos ganar esta batalla"
+  nextState:
+  - {fileID: 11400000, guid: 66ff30eda3b29e34c80b2c53a111a67c, type: 2}
+  - {fileID: 11400000, guid: 4f47d3d32d0e33c4d937b1d4a8f647ec, type: 2}
+  - {fileID: 11400000, guid: fe086197b87efbd4c955af228bdfdb33, type: 2}

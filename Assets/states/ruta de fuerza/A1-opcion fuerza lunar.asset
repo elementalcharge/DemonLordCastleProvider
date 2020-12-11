@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: A1-opcion fuerza lunar
+  m_EditorClassIdentifier: 
+  storyText: 'El ritual se ah realizado a la luz de la luna las brujas han hecho
+    su malevolo ritual y crearon una criatura nueva del caldero lleno del poder de
+    la luna y el caos de la magia. La forma de esa criatura es la tuya, un hombre
+    lobo, lleno de poder y energia que espera crecer y deborar a sus enemigos
+
+
+    1_estoy
+    vivo!'
+  nextState:
+  - {fileID: 11400000, guid: f8195eadf1879774795046c5f73f6675, type: 2}

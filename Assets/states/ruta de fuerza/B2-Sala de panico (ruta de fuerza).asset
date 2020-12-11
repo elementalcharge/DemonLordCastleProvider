@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: B2-Sala de panico (ruta de fuerza)
+  m_EditorClassIdentifier: 
+  storyText: "Tus progenitores tenian una sala de panico para escapar de esto pero
+    sus heridas son muy serias como para usarlo, tu por otro lado puedes escapar.
+    Sobrevivir es la prioridad en este momento, tus progenitores no sobreviviran
+    pero viviran en tu legenda y para eso debes vivir y recuperarte. \nPuedes usar
+    la ruta secreta de la sala de panico para salir de forma segura de tu hogar.\nEn
+    la sala de panico se encuentra un mapa a una nueva cueva, una capaz de recuperar
+    lo perdido aqui y planear tu regreso, solo debes encontrarla en \n1_El bosque"
+  nextState:
+  - {fileID: 11400000, guid: 2413b49f743b6b1489acb0185f0b8d41, type: 2}

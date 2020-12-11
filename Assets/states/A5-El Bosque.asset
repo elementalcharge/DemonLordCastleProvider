@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: A5-El Bosque
+  m_EditorClassIdentifier: 
+  storyText: "El bosque aun no fue explorado lo suficiente por el enemigo, \ndebo
+    lograr encontrar la cueva y ocultarla bien antes de que mi unico escape se vea
+    bloqueado por ellos!\nque puedo hacer?\n1_invastigar el lago( El agua podria
+    recuperarme )\n2_buscar y emboscar a un scout enemigo( para que buscarlo yo si
+    puedo matar a quien haya hecho el trabajo por mi)\n3_investigar el bosque profundo
+    ( lo profundo del bosque aun no fue explorado por el enemigo puedo aprovechar
+    eso para ocultarme )"
+  nextState:
+  - {fileID: 11400000, guid: 5d3c97c0a7c04a14083374464d257c64, type: 2}
+  - {fileID: 11400000, guid: c9bfc6161fce2bc498d5a0b5edf88648, type: 2}
+  - {fileID: 11400000, guid: 079baaf601f28e54a9bf7ca7a75c8566, type: 2}

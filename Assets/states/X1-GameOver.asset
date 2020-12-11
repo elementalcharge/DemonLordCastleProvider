@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: X1-GameOver
+  m_EditorClassIdentifier: 
+  storyText: 'estas muerto, tal vez por un error, tal vez intencional. eso y la probabilidad
+    de que este resultado no se haya codeado aun es la misma....
+
+    Curioso no?
+
+
+    1_Volver
+    a intetar...'
+  nextState:
+  - {fileID: 11400000, guid: 658bfcf90accc494083c35fe4c037cb4, type: 2}

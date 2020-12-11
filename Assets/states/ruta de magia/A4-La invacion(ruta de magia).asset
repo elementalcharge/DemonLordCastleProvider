@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: A4-La invacion(ruta de magia)
+  m_EditorClassIdentifier: 
+  storyText: "A\xF1os despues...\nTu magia a transformado los alrededor en un hermoso
+    reino,\nTus progenitores aunque contentos creen que llamaste demasiado la atencion,
+    algo que no te preocupaba hasta que un ejercito vino a ponerle fin a tu reino.
+    El enemigo se hizo paso hasta la cueva de tus progenitores donde te preparas
+    para enfrentarlos. \n\n1_Lo mejor seria reagruparme con mis progenitores las
+    fuerzas pueden ser demasiado para enfrentar por mi cuenta\n2_Que vengan los destruire
+    frente a frente sus guerreros no son capaces de detenerme\n3_Preparare el terreno
+    y me escabullire a su retaguardia, si tienen magia no los dejare preparala"
+  nextState:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: fa11b870f3b9a7c48a597b1c28948d3d, type: 2}

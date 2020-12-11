@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: A4-La invacion(ruta de fuerza)
+  m_EditorClassIdentifier: 
+  storyText: "Tiempo despues...\nComo era de esperar tu nacimiento no paso desapercibido.\nLos
+    pueblos cercanos reportaron tu actividad y la de tus creadores enviaron una fuerza
+    considerable a destruir tu hogar.\nLos soldados se alistaron en formacion y avanzan
+    en unidad. \nson una fuerza formidable la victoria sera tuya pero solo si tomas
+    la decicion correcta\n\n1_debo reagruparme con mis progenitores pelearles es
+    suicidio en esta situacion\n2_sus soldados son solo la carne que se preparo en
+    mi honor seran la primera de mis legendarias masacres\n3_Si logro escbullirme
+    podria atacarlos por sorpresa y neutralizar a los magos el resto caeran como
+    dominos"
+  nextState:
+  - {fileID: 11400000, guid: d376f2a22287a404c94210574ca2decf, type: 2}
+  - {fileID: 11400000, guid: 6fbb94e005be6244cacd8d586b51395e, type: 2}
+  - {fileID: 11400000, guid: 41036bcf324b7264fa0ba66697ec33ab, type: 2}
