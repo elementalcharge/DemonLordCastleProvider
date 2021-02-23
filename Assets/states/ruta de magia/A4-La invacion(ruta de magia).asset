@@ -21,6 +21,6 @@ MonoBehaviour:
     frente a frente sus guerreros no son capaces de detenerme\n3_Preparare el terreno
     y me escabullire a su retaguardia, si tienen magia no los dejare preparala"
   nextState:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: aaa37ac4dc182cc4fa47293d7e3267fb, type: 2}
   - {fileID: 0}
   - {fileID: 11400000, guid: fa11b870f3b9a7c48a597b1c28948d3d, type: 2}

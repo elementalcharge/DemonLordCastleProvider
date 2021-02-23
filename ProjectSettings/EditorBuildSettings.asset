@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/wizard UI test/number wizard UI Start.unity
+    guid: 9bc470699025fb748959eadf2f7d834a
+  - enabled: 1
+    path: Assets/scenes/wizard UI test/number wizard UI Core game.unity
+    guid: fece000d6c49761468644625465cd424
+  - enabled: 1
+    path: Assets/scenes/wizard UI test/number wizard UI Wingame.unity
+    guid: a1985e8af392e7544b8990fbe9787a8f
+  m_configObjects: {}

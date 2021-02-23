@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
   m_Name: X5-Victoria ante ejercito magia
   m_EditorClassIdentifier: 
-  storyText: 
-  nextState: []
+  storyText: "con tus magias generas una oscuridad magica,llenas de diversas trampas
+    para que cuando el ejercito se acerque se lleven una desagradable sorpresa.\nTe
+    escabulles entre sus lineas eliminando eficasmente a los magos antes de que puedan
+    percibir tus trucos y llevando a los guerreros a tus trampas. \nTu astucia y
+    habilidad llevo a dar vuelta la situacion. Al final de la batalla sobreviviste
+    pero el lugar esta comprometido  decides  armar tu base en un nuevo lugar. Este
+    es el fin del prologo y el inicio del primer capitulo de tu leyenda\n\n1_volver
+    al inicio"
+  nextState:
+  - {fileID: 11400000, guid: 658bfcf90accc494083c35fe4c037cb4, type: 2}

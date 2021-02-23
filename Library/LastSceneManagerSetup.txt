@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/scenes/test scene.unity
+- path: Assets/scenes/wizard UI test/number wizard UI Wingame.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

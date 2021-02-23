@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b3c95af179944cb021ec5440008b2, type: 3}
+  m_Name: B2-Sala de panico(ruta de magia)
+  m_EditorClassIdentifier: 
+  storyText: "El ejercito es duro y un ataque directo no seria lo mas apropiado.\ntal
+    vez reunir fuerzas con mis progenitores seria la mejor forma de derrotarlos.\ncon
+    un poco de magia y trampas puedo gane suficiente tiempo para llegar a la sala
+    y encontrarme con unos cuantos cadaveres y mi progenitores heridos, \nLas opciones
+    son pocas pero los cadaveres son bastos, aunque la muerte no es lo mio el material
+    puede ser util pantalla para planear mi proximo movimiento\n\n1_Usar los cadaveres
+    para defender el frente\n2_escapar a la sala de panico, usando cadaveres para
+    ocultar nuestro rastro\n3_entregarle mi magia a mis progenitores para que destruyan
+    a todo lo que esta cerca"
+  nextState:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
